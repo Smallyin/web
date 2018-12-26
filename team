@@ -1,0 +1,39 @@
+{
+  "squadName" : "金州勇士队",
+  "homeTown" : "奥克兰",
+  "formed" : 1946,
+  "secretBase" : "史蒂夫-科尔",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "斯蒂芬-库里",
+      "age" : 后卫,
+      "secretIdentity" : "1063$",
+      "powers" : [
+        "1.91米",
+        "86.3kg",
+        "30岁"
+      ]
+    },
+    {
+      "name" : "凯文-杜兰特",
+      "age" : 前锋,
+      "secretIdentity" : "2000$",
+      "powers" : [
+        "2.06米",
+        "109.0kg",
+        "30岁"
+      ]
+    },
+    {
+      "name" : "克雷-汤普森",
+      "age" : 后卫,
+      "secretIdentity" : "308$",
+      "powers" : [
+        "2.01米",
+        "97.6kg",
+        "28岁"
+      ]
+    }
+  ]
+}
